@@ -1,3 +1,4 @@
+# https://www.linkedin.com/pulse/finding-right-neighbourhood-settle-paris-ilan-benchetrit/
 # Please find in this repository the materials for the final project of the IBM Data Science MOOC on Coursera
 You will find :
 - The Jupyter Notebook with data analysis and data visualisation
